@@ -2930,7 +2930,6 @@
     )
   )
 
-
   (junction (at 374.015 85.725) (diameter 0) (color 0 0 0 0)
     (uuid 05023bd9-1826-4721-9aa6-656710d9abf6)
   )
@@ -4444,7 +4443,7 @@
     (uuid fff8aea9-c9ff-4e7e-b7ae-d72b256fed69)
   )
 
-  (text "Package_DIP:DIP-28_W15.24mm_Socket" (at 177.8 192.405 0)
+  (text "Package_DIP:DIP-28_W15.24mm_Socket" (at 183.515 185.42 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 00fa3fab-d18e-4a24-95b5-ac52582c6786)
   )
@@ -4465,7 +4464,7 @@
     (uuid 4b770508-038f-4ccc-9e07-fefb4170f124)
   )
   (text "Socket:DIP_Socket-28_W11.9_W12.7_W15.24_W17.78_W18.5_3M_228-1277-00-0602J"
-    (at 137.16 201.93 0)
+    (at 141.605 195.58 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5e5983fb-79ec-435e-91d4-43456cf3aee7)
   )
