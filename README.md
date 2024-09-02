@@ -35,14 +35,14 @@ A column of output header pins is positioned immediately to the left of the LCD.
 
 ## SOFTWARE 
 
-The following software is included.
+|Filename|Description|
+|-|-|
+|software/hello/hello.s|'HELLO WORLD 6502' Assembly Code|
+|software/hello/hello.out|'HELLO WORLD 6502' ROM file
+|software/wozmon/wozmin.s|WOZMON Assembly Code|
+|software/wozmon/wozmin.bin|WOZMON ROM file|
 
-|Description|Files|Other Information|
-|-|-|-|
-|HELLO WORLD|xxx|Prints *HELLO WORLD 6502* on the LCD.|
-|WOZMON|xxx|Runs Wozmon as described in Ben's *Running Apple 1 software on a breadboard computer (Wozmon)* YouTube video.|
-
-The computer *does not  run the version of Microsoft BASIC* that Ben describes on his channel.  I have not figured (yet?) why that is so.  But it does run an alternate version of BASIC I found on Github.  See https://github.com/Fifty1Ford/BeEhBasic for more information.
+The computer *does not run the version of Microsoft BASIC* that Ben describes on his channel.  I have not figured (yet?) why that is so.  But it does run an alternate version of BASIC I found on Github.  See https://github.com/Fifty1Ford/BeEhBasic for more information.
 
 ## KICAD FILES
 
