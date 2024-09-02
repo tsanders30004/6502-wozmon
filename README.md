@@ -12,7 +12,7 @@
 
 ## PCB DESCRIPTION
 
-![Hello World](photos/hello_world.png)
+![Hello World](photos/hello_world_6502.png)
 
 |General Information||
 |-|-|
