@@ -29,6 +29,8 @@ The upper left corner of the PCB has ports for +5V (barrel connector) and an RS-
 PWR and CLK LED's will illuminate when power and a clock signal (from the onboard 1MHz clock) are present, respectively.
 The PCB can be reset via the RESET button directly below the RS-232 port.  The RESET LED will illuminate when the RESET button is pressed.
 
+![Power Connectors](photos/power_connector.png)
+
 A column of output header pins is positioned immediately to the left of the LCD.  These output pins were primarily used for testing.  The top four pins are for GND.  (I used then when connecting the ground lead of an oscilloscope to the PCB.)  The bottom four pins are TxD, MAX232 pin 12, RESET*, and the CLOCK signal.  You can leave these pins unconnected if you don't want to use them.
 
 ## SOFTWARE 
